@@ -1,0 +1,17 @@
+c:\users\deckz\documents\visual studio 2015\Projects\Projeto CCV\Projeto CCV\bin\Debug\Projeto CCV.exe.config
+c:\users\deckz\documents\visual studio 2015\Projects\Projeto CCV\Projeto CCV\bin\Debug\Projeto CCV.exe
+c:\users\deckz\documents\visual studio 2015\Projects\Projeto CCV\Projeto CCV\bin\Debug\Projeto CCV.pdb
+c:\users\deckz\documents\visual studio 2015\Projects\Projeto CCV\Projeto CCV\obj\Debug\Projeto CCV.csprojResolveAssemblyReference.cache
+c:\users\deckz\documents\visual studio 2015\Projects\Projeto CCV\Projeto CCV\obj\Debug\Projeto_CCV.Form1.resources
+c:\users\deckz\documents\visual studio 2015\Projects\Projeto CCV\Projeto CCV\obj\Debug\Projeto_CCV.Properties.Resources.resources
+c:\users\deckz\documents\visual studio 2015\Projects\Projeto CCV\Projeto CCV\obj\Debug\Projeto CCV.csproj.GenerateResource.Cache
+c:\users\deckz\documents\visual studio 2015\Projects\Projeto CCV\Projeto CCV\obj\Debug\Projeto CCV.exe
+c:\users\deckz\documents\visual studio 2015\Projects\Projeto CCV\Projeto CCV\obj\Debug\Projeto CCV.pdb
+c:\Users\Deckz\Documents\Visual Studio 2015\Projects\Projeto CCV\Projeto CCV\bin\Debug\EntityFramework.dll
+c:\Users\Deckz\Documents\Visual Studio 2015\Projects\Projeto CCV\Projeto CCV\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\Deckz\Documents\Visual Studio 2015\Projects\Projeto CCV\Projeto CCV\bin\Debug\System.Data.SQLite.dll
+c:\Users\Deckz\Documents\Visual Studio 2015\Projects\Projeto CCV\Projeto CCV\bin\Debug\System.Data.SQLite.EF6.dll
+c:\Users\Deckz\Documents\Visual Studio 2015\Projects\Projeto CCV\Projeto CCV\bin\Debug\System.Data.SQLite.Linq.dll
+c:\Users\Deckz\Documents\Visual Studio 2015\Projects\Projeto CCV\Projeto CCV\bin\Debug\EntityFramework.xml
+c:\Users\Deckz\Documents\Visual Studio 2015\Projects\Projeto CCV\Projeto CCV\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\Deckz\Documents\Visual Studio 2015\Projects\Projeto CCV\Projeto CCV\bin\Debug\System.Data.SQLite.xml
